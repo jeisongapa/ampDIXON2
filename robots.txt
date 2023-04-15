@@ -1,3 +1,7 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
 User-agent: *
-Disallow:
-crawl-delay: 10
+Disallow: /search
+Allow: /
+
