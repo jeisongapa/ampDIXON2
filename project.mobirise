@@ -60,7 +60,7 @@
     "screenshot": "screenshot.png",
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/alexis2-128x128.png",
-    "mbrsiteDomain": "lehnbxypos",
+    "mbrsiteDomain": "pl58aatqem",
     "cssOptimize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -74,7 +74,7 @@
     "site_lang": "es",
     "robotsText": "User-agent: Mediapartners-Google\nDisallow: \n\nUser-agent: *\nDisallow: /search\nAllow: /\n\n",
     "publishChangesOnly": true,
-    "canonical-url": false
+    "canonical-url": "https://chamanesymaestrosdelamor.com"
   },
   "pages": {
     "index.html": {
